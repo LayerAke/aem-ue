@@ -8,7 +8,7 @@
 //
 // Optional path parameter (defaults to /*):
 // node clearCache.js cache /specific/path
-// node clearCache.js reindex /docs/*
+// node clearCache.js reindex /docs/* 
 
 require('dotenv').config();
 const axios = require('axios');
