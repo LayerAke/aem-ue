@@ -55,4 +55,3 @@ function addEventListeners(block) {
     // Add event listeners to the block
     addEventListeners(block);
   }
-  
